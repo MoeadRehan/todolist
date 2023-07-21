@@ -1,6 +1,6 @@
-Sure! Here's the complete `Readme.md` file for your TodoList React app:
 
-```markdown
+
+
 # TodoList React App
 
 <!-- ![TodoList App Screenshot](todo_app_screenshot.png) -->
@@ -18,35 +18,27 @@ The TodoList React App allows users to:
 1. Make sure you have Node.js and npm (Node Package Manager) installed on your computer. You can download Node.js from the official website: https://nodejs.org
 
 2. Clone the repository to your local machine using the following command:
-```
 
 git clonehttps://github.com/MoeadRehan/todolist.git
 
-```
-<!-- Replace `<repository-url>` with the URL of your TodoList app repository. -->
 
 3. Change the current directory to the root of the cloned repository:
-```
+
 
 cd todolist
 
-```
 
 4. Install the required dependencies for the app by running the following command:
-```
 
 npm install
 
-```
 
 ## How to Run
 
 1. Once the dependencies are installed, start the development server by running the following command:
-```
 
 npm start
 
-```
 
 2. Your default web browser should automatically open the TodoList app at `http://localhost:3000/`. If it doesn't, you can manually open that URL in your browser.
 
@@ -65,4 +57,3 @@ Contributions to this TodoList React app are welcome! If you find any issues or 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
